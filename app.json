@@ -1,0 +1,18 @@
+{
+    "name": "mofa",
+    "description": "mofa on Heroku.",
+    "keywords": ["mofa"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "12f226a1-655c-4bc7-aaee-a8276e43ac84"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://bfkjz.github.io",
+    "repository": "https://bfkjz.github.io",
+    "stack": "container"
+}
